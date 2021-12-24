@@ -1,11 +1,11 @@
 
 <div align="center">
-  <h2> Hola <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! Yo soy <a href="https://bypabloc-cv.netlify.app/">Pablo Contreras</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+  <h2> Hola <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! Yo soy <a href="https://Samu3lE-cv.netlify.app/">Pablo Contreras</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 </div>
 
 <h3 align="center">🚀 Full Stack Developer | MEVN Stack & VILT Stack | Open Source ♥ | Devops | Programador competitivo 🚀</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=bypabloc.bypabloc)
+![](https://visitor-badge.glitch.me/badge?page_id=Samu3lE.Samu3lE)
 
 <br />
 
@@ -18,9 +18,9 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
   
 - 💼 ¿Algun trabajo de tiempo completo? Contactame por alguno de estos medios:<br/>
   <a href="mailto:pacg1991@gmail.com?subject=[GitHub]%20🔥%20Contacto&body=Hola%20Pablo%2C%0A%0AVoy%20a%20visitarlos%20hoy%20después%20de%20ver%20su%20perfil%20de%20GitHub%20para%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/bypabloc_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/bypabloc"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/bypabloc"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/Samu3lE_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Samu3lE"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Samu3lE"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
@@ -35,7 +35,7 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 
 📊 **esta semana pasé mi tiempo en:**
 
-[![bypabloc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samu3lE)](https://github.com/anuraghazra/github-readme-stats)
+[![Samu3lE's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samu3lE)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 **De lo que estoy orgulloso:**
 <!-- TODO-IST:START -->
@@ -45,35 +45,35 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 <!-- TODO-IST:END -->
 
 ✨ **Para ver un detallado de mi CV u hoja de vida:**
-<a href="https://bypabloc-cv.netlify.app/">Presiona aquí</a>
+<a href="https://Samu3lE-cv.netlify.app/">Presiona aquí</a>
 
 📈 Mis estadísticas de github
 
 <p align="center"> 
-  <a href="https://github-readme-stats.vercel.app/api?username=bypabloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-    <img src="https://github-readme-stats.vercel.app/api?username=bypabloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="bypabloc" />
+  <a href="https://github-readme-stats.vercel.app/api?username=Samu3lE&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+    <img src="https://github-readme-stats.vercel.app/api?username=Samu3lE&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Samu3lE" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bypabloc&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypabloc&langs_count=8&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lE&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu3lE&langs_count=8&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact"/>
   </a>
 </p>
   
 <p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=bypabloc&theme=dark&hide_border=true">
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=bypabloc&theme=dark&hide_border=true" width = 400>
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=Samu3lE&theme=dark&hide_border=true">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Samu3lE&theme=dark&hide_border=true" width = 400>
   </a>
 </p>
   
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=bypabloc&theme=dark&hide_border=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=bypabloc&theme=nord&column=7"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=Samu3lE&theme=dark&hide_border=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=Samu3lE&theme=nord&column=7"/>
   </a>
 </p>
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=bypabloc&theme=rogue)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Samu3lE&theme=rogue)
   
 </br>
 </br>
