@@ -35,7 +35,7 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 
 📊 **esta semana pasé mi tiempo en:**
 
-[![bypabloc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bypabloc)](https://github.com/anuraghazra/github-readme-stats)
+[![bypabloc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samu3lE)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 **De lo que estoy orgulloso:**
 <!-- TODO-IST:START -->
