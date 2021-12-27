@@ -1,9 +1,9 @@
 
 <div align="center">
-  <h2> Hola <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! Yo soy <a href="https://Samu3lE-cv.netlify.app/">Pablo Contreras</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+  <h2> Hola <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! Yo soy <a href="https://Samu3lE-cv.netlify.app/">Samuel Espinoza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | MEVN Stack & VILT Stack | Open Source ♥ | Devops | Programador competitivo 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer | Programador competitivo 🚀</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Samu3lE.Samu3lE)
 
@@ -17,10 +17,9 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 <br/>
   
 - 💼 ¿Algun trabajo de tiempo completo? Contactame por alguno de estos medios:<br/>
-  <a href="mailto:pacg1991@gmail.com?subject=[GitHub]%20🔥%20Contacto&body=Hola%20Pablo%2C%0A%0AVoy%20a%20visitarlos%20hoy%20después%20de%20ver%20su%20perfil%20de%20GitHub%20para%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/Samu3lE_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/Samu3lE"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Samu3lE"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:samuelesponline@gmail.com?subject=[GitHub]%20🔥%20Contacto&body=Hola%20Samuel%2C%0A%0AVoy%20a%20visitarlos%20hoy%20después%20de%20ver%20su%20perfil%20de%20GitHub%20para%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samuelespinozac/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
 
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
@@ -28,7 +27,6 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -38,9 +36,7 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 [![Samu3lE's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samu3lE)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 **De lo que estoy orgulloso:**
-<!-- TODO-IST:START -->
-✅  De fundar una StartUp <a href="https://appinteli.com" target="_blank">AppInteli <img src="https://appinteli.com/img/icon.svg" width="15px" alt="AppInteli"></a>           
-✅  De haber empezado con una StartUp desde cero hasta que sea autosostenible <a href="https://dibal.pe/" target="_blank">Dibal <img src="http://dibal.pe/img/isotipo.png" width="15px" alt="AppInteli"></a>           
+<!-- TODO-IST:START -->         
 ✅  Haberme graduado como Ingeniero en Informática           
 <!-- TODO-IST:END -->
 
