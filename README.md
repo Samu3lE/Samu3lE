@@ -32,7 +32,7 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **esta semana pasé mi tiempo en:**
-
+[![wakatime](https://wakatime.com/badge/user/fe158a08-4737-4116-bf1c-13cce2560fba.svg)](https://wakatime.com/@fe158a08-4737-4116-bf1c-13cce2560fba)
 [![Samu3lE's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samu3lE)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 **De lo que estoy orgulloso:**
